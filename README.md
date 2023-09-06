@@ -13,3 +13,9 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AungNaingPhyo2006&layout=compact)](https://github.com/AungNaingPhyo2006)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AungNaingPhyo2006)
+
+
+Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+
+
