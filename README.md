@@ -1,6 +1,10 @@
-#I am  Aung Naing Phyo
+![ANP]I am  Aung Naing Phyo
+
+
+
+
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=AungNaingPhyo2006)
+      <img src="https://komarev.com/ghpvc/?username=AungNaingPhyo2006&style=flat-square&color=brightgreen">
 </p>
 
 <p  align="center">
